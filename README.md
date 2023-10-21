@@ -22,7 +22,7 @@ The object has 4 features (array) which is a high-top roof for more space and to
 
 # Function 
 
-The fuction km explains how many km in total the last 3 trips has been. Total km is trip1 + trip2 + trip3. 
+The fuction km (function) explains how many km in total the last 3 trips has been. Total km is trip1 + trip2 + trip3. 
 
 
 

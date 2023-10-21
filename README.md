@@ -2,7 +2,7 @@
 # Programming Foundations CA
 
 
-# Alfred the Van
+## Alfred the Van
 
 This project is about the object myCamperVan which I created using different properties. 
 

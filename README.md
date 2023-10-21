@@ -6,7 +6,7 @@
 
 This project is about the object myCamperVan which I created using different properties. 
 
-# About 
+## About 
 
 The object is a camper van and tiny home and has a number plate (number) which is an unique number to identifying the object. 
 
@@ -16,11 +16,11 @@ The brand (string) is Volkswagen and the model (string) is a Caravelle T3. The o
 
 The year (string) the car was build was in 1986, which means it is old (boolean). Cars with age of 30 years old or more is defined as a vintage car, if else it is not a vintage car. 
 
-# Features 
+## Features 
 
 The object has 4 features (array) which is a high-top roof for more space and to be able to stand tall. Is has a foldable bed for sleeping, a heater to get warm and a fridge to keep the food cold and lasting. 
 
-# Function 
+## Function 
 
 The fuction km (function) explains how many km in total the last 3 trips has been. Total km is trip1 + trip2 + trip3. 
 
